@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: 'Open sans', sans-serif;
+}
+.label{
+    width: 270px;
+    height: 480px;
+    border: 2px solid black;
+    margin: 20px auto;
+    padding: 0px 0.3em;
+}
+.nutrition{
+    text-align: center;
+    margin: 0;
+    font-size: 2em;
+}
+#calories{
+    margin-top: -5px;
+}
+h1 .right{
+    font-size: 1.2em;
+    float: right;
+    overflow: hidden;
+    margin-top: -6px;
+}
+.no-indent{
+    margin-left: 0;
+}
+p{
+    padding: 0 0.2em;
+}
+.bold{
+    font-weight: 800;
+}
+.sm-border{
+    border-top: 0.1em solid black;
+    margin: 0, 0.3em;
+}
+.sm-text  .sm-border{
+    border-top: 0.1em solid #979797;
+    margin: 0 0.3em;
+}
+.md-border{
+    border-top: 0.4em solid black;
+    margin: 0 0.2em;
+}
+.lg-border{
+    border-top: 0.6em solid black;
+    margin: 0 0.2em;
+}
+.indent{
+    margin-left: 1em;
+}
+.bord-indent{
+    border-top: 0.1em solid #979797;
+    margin-left: 2.3em;
+}
+.dbl-indent{
+    border-top: 0.1em solid #979797;
+    margin-left: 2em;
+}
+.right{
+    float: right;
+}
+.sm-text{
+    font-size: 0.9em;
+}
+.italic{
+    font-style: italic;
+}
+.daily-value-info{
+    font-size: 0.7em;
+    padding: 0 0.5em;
+    margin-left: 0.5em;
+    text-indent: -8px;
+}
